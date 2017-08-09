@@ -41,10 +41,8 @@ You will learn:
 
 ## Project structure
 
-* 4layerCNN.py -
-* 6layerCNN.py -
-* VGG16model.py -
-* Plots - directory with plots
+* 4layerCNN.py - 4-layer Keras model
+* 6layerCNN.py - 6-layer Keras model
 * README.md - project description step by step
 
 ## Convolutional neural network
@@ -442,11 +440,6 @@ Confusion matrix result:
 ![4100](https://user-images.githubusercontent.com/11740059/28138980-e79bebf2-6752-11e7-9415-e45272435a9c.png)
 
 
-## Results
-
-
-
-
 ## Resources
 
 1. [Official Keras Documentation](https://keras.io/)
@@ -460,4 +453,4 @@ Confusion matrix result:
 
 ## Grab the code or run project in online IDE
 * You can [download code from GitHub](https://github.com/simongeek/KerasT)
-* You can run the project in your browser
+* You can [run the project in your browser](https://plon.io/explore/keras-cifar-10-classification/m5UMC4nOeCFLM6yXN)
